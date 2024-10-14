@@ -33,4 +33,4 @@ def tootmine(): # Funktsioon, mis käivitab tootmise
     print(f"\nTootmine lõpetatud. Lõplik laovaru: {laovaru} ühikut.") # Väljastame lõpliku laovaru
 
 # Käivitame tootmisprogrammi
-tootmine()
+tootmine() # Käivitame tootmise
